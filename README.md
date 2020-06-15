@@ -15,12 +15,14 @@ Log in as the pi user and download a local copy of this script:
 
 Make the file executable
 
- chmod +x ./master_setup.sh
+ chmod +x ./retropie_setup.sh
 
 Run as root
 
  cd RetroPie-Setup
  sudo ./retropie_setup.sh
+
+
 
 Other handy resources:
 
