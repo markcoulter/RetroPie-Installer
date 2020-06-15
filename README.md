@@ -9,15 +9,16 @@ Handy scripts to automate x86 install on Ubuntu boxes. Includes Bezels, Hursty's
 
 Log in as the pi user and download a local copy of this script:
 
-git clone --depth=1 https://github.com/markcoulter/retropie-x86.git
+ git clone --depth=1 https://github.com/markcoulter/RetroPie-Setup.git
 
 Make the file executable
 
-chmod +x ./master_setup.sh
+ chmod +x ./master_setup.sh
 
 Run as root
 
-sudo ./master_setup.sh
+ cd RetroPie-Setup
+ sudo ./retropie_setup.sh
 
 Other handy resources:
 
