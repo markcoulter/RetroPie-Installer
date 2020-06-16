@@ -1,0 +1,7 @@
+sudo add-apt-repository ppa:paulo-miguel-dias/mesa
+
+sudo apt upgrade libglapi-mesa libgl1-mesa-dri vulkan-utils
+sudo apt install libvulkan1 mesa-vulkan-drivers vulkan-utils
+
+
+https://github.com/MizterB/RetroPie-Setup-UbuntuServer
