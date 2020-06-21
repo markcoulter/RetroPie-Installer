@@ -7,22 +7,21 @@ My retropie scripts
 
 Handy scripts to automate x86 install on Ubuntu boxes. Includes Bezels, Hursty's themes
 
---code-copy   sudo apt-get install -y git dialog unzip xmlstarlet
+                 sudo apt-get install -y git dialog unzip xmlstarlet
 
-Log in as the pi user and download a local copy of this script:
+Log in as the pi user and download a local copy of this script
 
-   git clone --depth=1 https://github.com/markcoulter/RetroPie-Installer.git
+    git clone --depth=1 https://github.com/markcoulter/RetroPie-Installer.git
 
 Make the file executable
 
- cd RetroPie-Installer
- chmod +x ./retropie_setup.sh
+    cd RetroPie-Installer
+    chmod +x ./retropie_setup.sh
 
 Run as root
 
- cd RetroPie-Installer
- 
- sudo ./retropie_setup.sh
+    cd RetroPie-Installer
+    sudo ./retropie_setup.sh
 
 
 
