@@ -7,7 +7,7 @@ My retropie scripts
 
 Handy scripts to automate x86 install on Ubuntu boxes. Includes Bezels, Hursty's themes
 
-   sudo apt-get install -y git dialog unzip xmlstarlet
+--code-copy   sudo apt-get install -y git dialog unzip xmlstarlet
 
 Log in as the pi user and download a local copy of this script:
 
