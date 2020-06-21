@@ -1,13 +1,13 @@
 # RetroPie-Setup
 Like a Version 2
 
-retropie-x86
+retropie-installer for Ubuntu 18 or above
 
 My retropie scripts
 
 Handy scripts to automate x86 install on Ubuntu boxes. Includes Bezels, Hursty's themes
 
-                 sudo apt-get install -y git dialog unzip xmlstarlet
+    sudo apt-get install -y git dialog unzip xmlstarlet
 
 Log in as the pi user and download a local copy of this script
 
