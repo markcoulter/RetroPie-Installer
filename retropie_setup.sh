@@ -7,7 +7,12 @@ PLYMOUTH_THEME=retropie-pacman
 
 RETROPIE_CORE_DEPENDS=(
     xorg openbox pulseaudio alsa-utils menu libglib2.0-bin python-xdg 
-    at-spi2-core libglib2.0-bin dbus-x11 git dialog unzip xmlstarlet
+    at-spi2-core libglib2.0-bin dbus-x11 git dialog unzip xmlstarlet 
+    libaio-dev:i386 libbz2-dev:i386 libcggl:i386 libegl1-mesa-dev:i386 
+    libglew-dev:i386 libgles2-mesa-dev:i386 libgtk2.0-dev:i386 libjpeg-dev:i386 
+    libsdl1.2-dev:i386 libwxgtk3.0-dev:i386 nvidia-cg-toolkit zlib1g-dev:i386 
+    libsdl2-dev:i386 libjack-jackd2-dev:i386 libportaudiocpp0:i386 portaudio19-dev:i386 
+    liblzma-dev:i386 libsoundtouch-dev:i386 libxml2-dev:i386 libpcap0.8-dev:i386
 )
 RETROPIE_EXTRA_DEPENDS=( 
     openssh-server xdg-utils unclutter libsdl1.2-dev libgtk2.0-dev build-essential
