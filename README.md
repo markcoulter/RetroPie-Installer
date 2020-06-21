@@ -1,11 +1,11 @@
-# RetroPie-Setup
+# RetroPie-Installer
 Like a Version 2
 
 retropie-installer for Ubuntu 18 or above
 
 My retropie scripts
 
-Handy scripts to automate x86 install on Ubuntu boxes. Includes Bezels, Hursty's themes
+Handy scripts to automate x86 install on Ubuntu boxes. Includes Bezels, Hursty's themes and plenty of dependencies, and of course the RetroPie installer scripts
 
     sudo apt-get install -y git dialog unzip xmlstarlet
 
